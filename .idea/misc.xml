@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Radhio/Test/Parent/child/src/main/res/layout/activity_child.xml" value="0.2609375" />
+        <entry key="..\:/Radhio/Test/Parent/parent/admin/src/main/res/layout/activity_admin.xml" value="0.2453125" />
+        <entry key="..\:/Radhio/Test/Parent/parent/client/src/main/res/layout/activity_client.xml" value="0.246875" />
+        <entry key="..\:/Radhio/Test/Parent/parent/src/main/res/layout/activity_parent.xml" value="0.246875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

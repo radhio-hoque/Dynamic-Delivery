@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Parent</string>
+    <string name="title_client">On Install</string>
+    <string name="title_admin">Admin</string>
+</resources>
